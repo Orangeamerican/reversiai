@@ -1,0 +1,4 @@
+Run the training file to have the agent train and learn.
+After running the training file, you can play against him by running the agent file.
+
+The reversi and slow-reversi files are the rules for the game.
